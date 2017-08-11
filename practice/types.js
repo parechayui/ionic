@@ -3,5 +3,6 @@ function printName(stark) {
 }
 ;
 //Hello
+//Hi
 printName({ name: "Parechay" });
 printName({ label: "Parechay" });

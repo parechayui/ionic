@@ -8,5 +8,6 @@ function printName(stark:Stark){
 };
 
 //Hello
+//Hi
 printName({name:"Parechay"});
 printName({label:"Parechay"});
